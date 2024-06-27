@@ -5,4 +5,10 @@
 </p>
 
 ## Smi!
-> hihi!
+> Welcome to my github!
+
+💻 Frontend Developer? Backend Developer? Both❤.
+
+💬 Feel free to ask me if you need any help with my code, or want to contribute! Always welcome 🥴.
+
+♎ I like everyone, everything; My favorite: ☁.
