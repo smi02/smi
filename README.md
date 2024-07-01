@@ -9,7 +9,7 @@ Hi 👋 My name is smi
 <!--</p>-->
 
 <!--## Smi!-->
-<!--> Welcome to my github!-->
+<!-- Welcome to my github!-->
 
 <!--💻 Frontend Developer? Backend Developer? Both❤.-->
 
